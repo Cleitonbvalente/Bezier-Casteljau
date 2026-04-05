@@ -26,7 +26,3 @@ A aplicação é interativa: o usuário pode arrastar os pontos de controle e vi
 - 🔄 Atualização dinâmica da curva
 - 📈 Construção da curva via algoritmo de De Casteljau
 - 🔗 Exibição das linhas de controle (guides)
-
----
-
-## 🗂️ Estrutura do Projeto
